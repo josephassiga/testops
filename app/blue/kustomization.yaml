@@ -1,6 +1,6 @@
 resources:
   - ../base
-patchJson6902:
+patchesJson6902:
   - target:
       version: v1
       groups: apps
