@@ -3,7 +3,7 @@ resources:
 patchesJson6902:
   - target:
       version: v1
-      groups: apps
+      group: apps
       kind: Deployment
       name: bgd
       namespace: bgd
