@@ -1,0 +1,3 @@
+- op: replace
+  path: /spec/host
+  value: "green-openshift-gitops.apps.cluster-3b23.3b23.example.opentlc.com"
